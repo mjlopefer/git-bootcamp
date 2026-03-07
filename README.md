@@ -1,2 +1,2 @@
-# bootcamp-git
+# git-bootcamp
 Git Bootcamp
